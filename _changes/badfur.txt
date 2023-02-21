@@ -1,0 +1,6 @@
+mods/data/badfur/badfur.json
+mods/data/badfur/events.json
+mods/songs/badfur/Voices.ogg
+mods/songs/badfur/Inst.ogg
+mods/songs/badfur/voices.ogg
+mods/songs/badfur/inst.ogg

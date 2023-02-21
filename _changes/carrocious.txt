@@ -1,0 +1,6 @@
+mods/data/carrocious/carrocious.json
+mods/data/carrocious/events.json
+mods/songs/carrocious/Voices.ogg
+mods/songs/carrocious/Inst.ogg
+mods/songs/carrocious/voices.ogg
+mods/songs/carrocious/inst.ogg

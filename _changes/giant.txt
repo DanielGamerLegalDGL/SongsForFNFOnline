@@ -1,0 +1,6 @@
+mods/data/giant/events.json
+mods/data/giant/giant.json
+mods/songs/giant/Voices.ogg
+mods/songs/giant/Inst.ogg
+mods/songs/giant/voices.ogg
+mods/songs/giant/inst.ogg

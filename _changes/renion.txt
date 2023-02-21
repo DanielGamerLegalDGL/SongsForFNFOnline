@@ -1,0 +1,6 @@
+mods/data/renion/events.json
+mods/data/renion/renion.json
+mods/songs/renion/Voices.ogg
+mods/songs/renion/Inst.ogg
+mods/songs/renion/voices.ogg
+mods/songs/renion/inst.ogg

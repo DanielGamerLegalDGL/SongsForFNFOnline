@@ -1,0 +1,448 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Flash Camera",
+						"2.0",
+						"0"
+					]
+				]
+			],
+			[
+				90.9090909090909,
+				[
+					[
+						"Play Animation",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				5818.18181818182,
+				[
+					[
+						"Flash Camera",
+						"2.0",
+						"0"
+					]
+				]
+			],
+			[
+				11545.4545454545,
+				[
+					[
+						"Change Character",
+						"xokito",
+						"xokitoiconmarkito"
+					]
+				]
+			],
+			[
+				11636.3636363636,
+				[
+					[
+						"Flash Camera",
+						"2.0",
+						"0"
+					]
+				]
+			],
+			[
+				23000,
+				[
+					[
+						"Change Character",
+						"xokitoiconmarkito",
+						"xokito"
+					]
+				]
+			],
+			[
+				23090.9090909091,
+				[
+					[
+						"Flash Camera",
+						"2.0",
+						"0"
+					]
+				]
+			],
+			[
+				23272.7272727273,
+				[
+					[
+						"Cam Boom Speed",
+						"2.0",
+						"3.0"
+					]
+				]
+			],
+			[
+				34909.0909090909,
+				[
+					[
+						"Change Character",
+						"xokito",
+						"xokitoiconmarkito"
+					]
+				]
+			],
+			[
+				43636.3636363637,
+				[
+					[
+						"Change Character",
+						"xokitoiconmarkito",
+						"xokito"
+					]
+				]
+			],
+			[
+				46454.5454545455,
+				[
+					[
+						"Change Character",
+						"xokitoiconmarkito",
+						"xokito"
+					]
+				]
+			],
+			[
+				46545.4545454546,
+				[
+					[
+						"Flash Camera",
+						"2.0",
+						"1"
+					]
+				]
+			],
+			[
+				52363.6363636364,
+				[
+					[
+						"Change Character",
+						"xokito",
+						"xokitoiconmarkito"
+					]
+				]
+			],
+			[
+				57909.0909090909,
+				[
+					[
+						"Change Character",
+						"xokitoiconmarkito",
+						"xokito"
+					]
+				]
+			],
+			[
+				58000,
+				[
+					[
+						"Flash Camera",
+						"2.0",
+						"0"
+					]
+				]
+			],
+			[
+				58181.8181818182,
+				[
+					[
+						"Play Animation",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Change Character",
+						"xokito",
+						"xokitoiconmarkito"
+					]
+				]
+			],
+			[
+				69545.4545454546,
+				[
+					[
+						"Change Character",
+						"xokitoiconmarkito",
+						"xokito"
+					]
+				]
+			],
+			[
+				69636.3636363637,
+				[
+					[
+						"Flash Camera",
+						"2.0",
+						"0"
+					]
+				]
+			],
+			[
+				69818.1818181819,
+				[
+					[
+						"Play Animation",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				75363.6363636364,
+				[
+					[
+						"Change Character",
+						"xokito",
+						"xokitoiconmarkito"
+					]
+				]
+			],
+			[
+				75454.5454545455,
+				[
+					[
+						"Flash Camera",
+						"2.0",
+						"0"
+					]
+				]
+			],
+			[
+				75636.3636363637,
+				[
+					[
+						"Play Animation",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				78545.4545454546,
+				[
+					[
+						"Flash Camera",
+						"2.0",
+						"1"
+					]
+				]
+			],
+			[
+				78727.2727272728,
+				[
+					[
+						"Flash Camera",
+						"2.0",
+						"1"
+					]
+				]
+			],
+			[
+				78909.090909091,
+				[
+					[
+						"Flash Camera",
+						"2.0",
+						"1"
+					]
+				]
+			],
+			[
+				79272.7272727273,
+				[
+					[
+						"Flash Camera",
+						"2.0",
+						"1"
+					]
+				]
+			],
+			[
+				79818.1818181819,
+				[
+					[
+						"Flash Camera",
+						"2.0",
+						"1"
+					]
+				]
+			],
+			[
+				80181.8181818182,
+				[
+					[
+						"Flash Camera",
+						"2.0",
+						"1"
+					]
+				]
+			],
+			[
+				80545.4545454546,
+				[
+					[
+						"Flash Camera",
+						"2.0",
+						"1"
+					]
+				]
+			],
+			[
+				80909.090909091,
+				[
+					[
+						"Flash Camera",
+						"2.0",
+						"1"
+					]
+				]
+			],
+			[
+				81000,
+				[
+					[
+						"Change Character",
+						"xokitoiconmarkito",
+						"xokito"
+					]
+				]
+			],
+			[
+				81090.9090909091,
+				[
+					[
+						"Flash Camera",
+						"2.0",
+						"1"
+					]
+				]
+			],
+			[
+				81272.7272727273,
+				[
+					[
+						"Flash Camera",
+						"2.0",
+						"0"
+					]
+				]
+			],
+			[
+				81440.9090909091,
+				[
+					[
+						"Cam Boom Speed",
+						"5.0",
+						"3.0"
+					]
+				],
+				null,
+				""
+			],
+			[
+				81454.5454545455,
+				[
+					[
+						"Play Animation",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				93090.9090909091,
+				[
+					[
+						"Change Character",
+						"xokito",
+						"xokitoiconmarkito"
+					]
+				]
+			],
+			[
+				104636.363636364,
+				[
+					[
+						"Change Character",
+						"xokitoiconmarkito",
+						"xokito"
+					]
+				]
+			],
+			[
+				104727.272727273,
+				[
+					[
+						"Flash Camera",
+						"2.0",
+						"0"
+					]
+				]
+			],
+			[
+				116363.636363636,
+				[
+					[
+						"Change Character",
+						"xokito",
+						"xokitoiconmarkito"
+					]
+				]
+			],
+			[
+				127909.090909091,
+				[
+					[
+						"Change Character",
+						"xokitoiconmarkito",
+						"xokito"
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Flash Camera",
+						"2.0",
+						"0"
+					]
+				]
+			],
+			[
+				128363.636363636,
+				[
+					[
+						"Flash Camera",
+						"2.0",
+						"0"
+					]
+				]
+			],
+			[
+				128727.272727273,
+				[
+					[
+						"Flash Camera",
+						"2.0",
+						"0"
+					]
+				]
+			]
+		]
+	}
+}

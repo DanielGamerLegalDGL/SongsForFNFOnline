@@ -1,0 +1,7 @@
+mods/data/news/events.json
+mods/data/news/news-n.json
+mods/data/news/news.json
+mods/songs/news/Voices.ogg
+mods/songs/news/Inst.ogg
+mods/songs/news/voices.ogg
+mods/songs/news/inst.ogg
